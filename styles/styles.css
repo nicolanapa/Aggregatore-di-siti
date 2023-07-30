@@ -1,0 +1,9 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titolo {
+    text-align: center;
+    font-size: 30px;
+    color: forestgreen;
+}
